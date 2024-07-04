@@ -1,0 +1,31 @@
+#include<stdio.h>
+
+/*
+ * 输入格式：第一行一个整数n；
+第二行n个不超过1000的正整数。
+
+输出格式：一行一个整数，表示输入的n个正整数的最小值。
+ */
+
+int main() 
+{ 
+    int n;
+    scanf("%d",&n);
+    int arr[n];
+
+    for (int i=0;i<n;i++)
+    {
+        scanf("%d ",&arr[i]);
+    }
+
+    int min = arr[0];
+
+    for (int i=0;i<n;i++)
+    {
+        if (arr[i] < min) min = arr[i];
+    }
+
+    printf("%d\n",min);
+
+    return 0; 
+}
