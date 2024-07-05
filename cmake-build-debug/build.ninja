@@ -61,6 +61,12 @@ build CMakeFiles/C_ACM.dir/MaTiBei/MC0315.c.obj: C_COMPILER__C_ACM_unscanned_Deb
   OBJECT_DIR = CMakeFiles\C_ACM.dir
   OBJECT_FILE_DIR = CMakeFiles\C_ACM.dir\MaTiBei
 
+build CMakeFiles/C_ACM.dir/MaTiBei/MC0321.c.obj: C_COMPILER__C_ACM_unscanned_Debug D$:/programLanguage/C/C_ACM/MaTiBei/MC0321.c || cmake_object_order_depends_target_C_ACM
+  DEP_FILE = CMakeFiles\C_ACM.dir\MaTiBei\MC0321.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C_ACM.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_ACM.dir\MaTiBei
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_ACM
@@ -69,7 +75,7 @@ build CMakeFiles/C_ACM.dir/MaTiBei/MC0315.c.obj: C_COMPILER__C_ACM_unscanned_Deb
 #############################################
 # Link the executable C_ACM.exe
 
-build C_ACM.exe: C_EXECUTABLE_LINKER__C_ACM_Debug CMakeFiles/C_ACM.dir/MaTiBei/MC0314.c.obj CMakeFiles/C_ACM.dir/MaTiBei/MC0315.c.obj
+build C_ACM.exe: C_EXECUTABLE_LINKER__C_ACM_Debug CMakeFiles/C_ACM.dir/MaTiBei/MC0314.c.obj CMakeFiles/C_ACM.dir/MaTiBei/MC0315.c.obj CMakeFiles/C_ACM.dir/MaTiBei/MC0321.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_ACM.dir
