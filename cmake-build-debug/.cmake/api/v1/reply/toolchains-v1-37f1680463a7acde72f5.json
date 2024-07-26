@@ -10,16 +10,16 @@
 				{
 					"includeDirectories" : 
 					[
-						"D:/programIde/Clion/CLion 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
-						"D:/programIde/Clion/CLion 2023.2.2/bin/mingw/include",
-						"D:/programIde/Clion/CLion 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
-						"D:/programIde/Clion/CLion 2023.2.2/bin/mingw/x86_64-w64-mingw32/include"
+						"D:/program_app/Clion/CLion 2024.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+						"D:/program_app/Clion/CLion 2024.1.4/bin/mingw/include",
+						"D:/program_app/Clion/CLion 2024.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+						"D:/program_app/Clion/CLion 2024.1.4/bin/mingw/x86_64-w64-mingw32/include"
 					],
 					"linkDirectories" : [],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : []
 				},
-				"path" : "D:/programIde/Clion/CLion 2023.2.2/bin/mingw/bin/gcc.exe",
+				"path" : "D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/gcc.exe",
 				"version" : "13.1.0"
 			},
 			"language" : "C",
@@ -33,7 +33,7 @@
 			"compiler" : 
 			{
 				"implicit" : {},
-				"path" : "D:/programIde/Clion/CLion 2023.2.2/bin/mingw/bin/windres.exe"
+				"path" : "D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/windres.exe"
 			},
 			"language" : "RC",
 			"sourceFileExtensions" : 

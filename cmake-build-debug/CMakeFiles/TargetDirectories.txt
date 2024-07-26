@@ -1,3 +1,3 @@
-D:/programLanguage/C/C_ACM/cmake-build-debug/CMakeFiles/C_ACM.dir
-D:/programLanguage/C/C_ACM/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/programLanguage/C/C_ACM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code_place/C_ACM/cmake-build-debug/CMakeFiles/C_ACM.dir
+D:/code_place/C_ACM/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code_place/C_ACM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

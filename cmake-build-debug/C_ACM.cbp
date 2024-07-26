@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_ACM"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/code_place/C_ACM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_ACM">
+				<Option output="D:/code_place/C_ACM/cmake-build-debug/C_ACM.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code_place/C_ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_ACM"/>
+					<CompileFile command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_ACM/fast">
+				<Option output="D:/code_place/C_ACM/cmake-build-debug/C_ACM.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code_place/C_ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_ACM/fast"/>
+					<CompileFile command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/code_place/C_ACM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/code_place/C_ACM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program_app/Clion/CLion 2024.1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/code_place/C_ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/code_place/C_ACM/LeeCode/20_isValid_kuohao.c">
+			<Option target="C_ACM"/>
+		</Unit>
+		<Unit filename="D:/code_place/C_ACM/LeeCode/61_rotateListNode.c">
+			<Option target="C_ACM"/>
+		</Unit>
+		<Unit filename="D:/code_place/C_ACM/MaTiBei/MC0314.c">
+			<Option target="C_ACM"/>
+		</Unit>
+		<Unit filename="D:/code_place/C_ACM/MaTiBei/MC0315.c">
+			<Option target="C_ACM"/>
+		</Unit>
+		<Unit filename="D:/code_place/C_ACM/MaTiBei/MC0321.c">
+			<Option target="C_ACM"/>
+		</Unit>
+		<Unit filename="D:/code_place/C_ACM/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
