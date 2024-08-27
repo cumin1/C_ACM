@@ -138,13 +138,73 @@ CMakeFiles/C_ACM.dir/LeeCode/20_isValid_kuohao.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/C_ACM.dir/LeeCode/20_isValid_kuohao.c.s"
 	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code_place\C_ACM\LeeCode\20_isValid_kuohao.c -o CMakeFiles\C_ACM.dir\LeeCode\20_isValid_kuohao.c.s
 
+CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.obj: CMakeFiles/C_ACM.dir/flags.make
+CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.obj: D:/code_place/C_ACM/Programming_problem/_219_1.c
+CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.obj: CMakeFiles/C_ACM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\code_place\C_ACM\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.obj"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.obj -MF CMakeFiles\C_ACM.dir\Programming_problem\_219_1.c.obj.d -o CMakeFiles\C_ACM.dir\Programming_problem\_219_1.c.obj -c D:\code_place\C_ACM\Programming_problem\_219_1.c
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.i"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code_place\C_ACM\Programming_problem\_219_1.c > CMakeFiles\C_ACM.dir\Programming_problem\_219_1.c.i
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.s"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code_place\C_ACM\Programming_problem\_219_1.c -o CMakeFiles\C_ACM.dir\Programming_problem\_219_1.c.s
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.obj: CMakeFiles/C_ACM.dir/flags.make
+CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.obj: D:/code_place/C_ACM/Programming_problem/_219_2.c
+CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.obj: CMakeFiles/C_ACM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\code_place\C_ACM\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.obj"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.obj -MF CMakeFiles\C_ACM.dir\Programming_problem\_219_2.c.obj.d -o CMakeFiles\C_ACM.dir\Programming_problem\_219_2.c.obj -c D:\code_place\C_ACM\Programming_problem\_219_2.c
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.i"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code_place\C_ACM\Programming_problem\_219_2.c > CMakeFiles\C_ACM.dir\Programming_problem\_219_2.c.i
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.s"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code_place\C_ACM\Programming_problem\_219_2.c -o CMakeFiles\C_ACM.dir\Programming_problem\_219_2.c.s
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.obj: CMakeFiles/C_ACM.dir/flags.make
+CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.obj: D:/code_place/C_ACM/Programming_problem/_219_3.c
+CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.obj: CMakeFiles/C_ACM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\code_place\C_ACM\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.obj"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.obj -MF CMakeFiles\C_ACM.dir\Programming_problem\_219_3.c.obj.d -o CMakeFiles\C_ACM.dir\Programming_problem\_219_3.c.obj -c D:\code_place\C_ACM\Programming_problem\_219_3.c
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.i"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code_place\C_ACM\Programming_problem\_219_3.c > CMakeFiles\C_ACM.dir\Programming_problem\_219_3.c.i
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.s"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code_place\C_ACM\Programming_problem\_219_3.c -o CMakeFiles\C_ACM.dir\Programming_problem\_219_3.c.s
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.obj: CMakeFiles/C_ACM.dir/flags.make
+CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.obj: D:/code_place/C_ACM/Programming_problem/_219_4.c
+CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.obj: CMakeFiles/C_ACM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\code_place\C_ACM\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.obj"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.obj -MF CMakeFiles\C_ACM.dir\Programming_problem\_219_4.c.obj.d -o CMakeFiles\C_ACM.dir\Programming_problem\_219_4.c.obj -c D:\code_place\C_ACM\Programming_problem\_219_4.c
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.i"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code_place\C_ACM\Programming_problem\_219_4.c > CMakeFiles\C_ACM.dir\Programming_problem\_219_4.c.i
+
+CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.s"
+	"D:\program_app\Clion\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code_place\C_ACM\Programming_problem\_219_4.c -o CMakeFiles\C_ACM.dir\Programming_problem\_219_4.c.s
+
 # Object files for target C_ACM
 C_ACM_OBJECTS = \
 "CMakeFiles/C_ACM.dir/MaTiBei/MC0314.c.obj" \
 "CMakeFiles/C_ACM.dir/MaTiBei/MC0315.c.obj" \
 "CMakeFiles/C_ACM.dir/MaTiBei/MC0321.c.obj" \
 "CMakeFiles/C_ACM.dir/LeeCode/61_rotateListNode.c.obj" \
-"CMakeFiles/C_ACM.dir/LeeCode/20_isValid_kuohao.c.obj"
+"CMakeFiles/C_ACM.dir/LeeCode/20_isValid_kuohao.c.obj" \
+"CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.obj" \
+"CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.obj" \
+"CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.obj" \
+"CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.obj"
 
 # External object files for target C_ACM
 C_ACM_EXTERNAL_OBJECTS =
@@ -154,11 +214,15 @@ C_ACM.exe: CMakeFiles/C_ACM.dir/MaTiBei/MC0315.c.obj
 C_ACM.exe: CMakeFiles/C_ACM.dir/MaTiBei/MC0321.c.obj
 C_ACM.exe: CMakeFiles/C_ACM.dir/LeeCode/61_rotateListNode.c.obj
 C_ACM.exe: CMakeFiles/C_ACM.dir/LeeCode/20_isValid_kuohao.c.obj
+C_ACM.exe: CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.obj
+C_ACM.exe: CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.obj
+C_ACM.exe: CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.obj
+C_ACM.exe: CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.obj
 C_ACM.exe: CMakeFiles/C_ACM.dir/build.make
 C_ACM.exe: CMakeFiles/C_ACM.dir/linkLibs.rsp
 C_ACM.exe: CMakeFiles/C_ACM.dir/objects1.rsp
 C_ACM.exe: CMakeFiles/C_ACM.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\code_place\C_ACM\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable C_ACM.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\code_place\C_ACM\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable C_ACM.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\C_ACM.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

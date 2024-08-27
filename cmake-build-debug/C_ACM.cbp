@@ -91,6 +91,18 @@
 		<Unit filename="D:/code_place/C_ACM/MaTiBei/MC0321.c">
 			<Option target="C_ACM"/>
 		</Unit>
+		<Unit filename="D:/code_place/C_ACM/Programming_problem/_219_1.c">
+			<Option target="C_ACM"/>
+		</Unit>
+		<Unit filename="D:/code_place/C_ACM/Programming_problem/_219_2.c">
+			<Option target="C_ACM"/>
+		</Unit>
+		<Unit filename="D:/code_place/C_ACM/Programming_problem/_219_3.c">
+			<Option target="C_ACM"/>
+		</Unit>
+		<Unit filename="D:/code_place/C_ACM/Programming_problem/_219_4.c">
+			<Option target="C_ACM"/>
+		</Unit>
 		<Unit filename="D:/code_place/C_ACM/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

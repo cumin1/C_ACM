@@ -248,6 +248,102 @@ MaTiBei/MC0321.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/MaTiBei/MC0321.c.s
 .PHONY : MaTiBei/MC0321.c.s
 
+Programming_problem/_219_1.obj: Programming_problem/_219_1.c.obj
+.PHONY : Programming_problem/_219_1.obj
+
+# target to build an object file
+Programming_problem/_219_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.obj
+.PHONY : Programming_problem/_219_1.c.obj
+
+Programming_problem/_219_1.i: Programming_problem/_219_1.c.i
+.PHONY : Programming_problem/_219_1.i
+
+# target to preprocess a source file
+Programming_problem/_219_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.i
+.PHONY : Programming_problem/_219_1.c.i
+
+Programming_problem/_219_1.s: Programming_problem/_219_1.c.s
+.PHONY : Programming_problem/_219_1.s
+
+# target to generate assembly for a file
+Programming_problem/_219_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_1.c.s
+.PHONY : Programming_problem/_219_1.c.s
+
+Programming_problem/_219_2.obj: Programming_problem/_219_2.c.obj
+.PHONY : Programming_problem/_219_2.obj
+
+# target to build an object file
+Programming_problem/_219_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.obj
+.PHONY : Programming_problem/_219_2.c.obj
+
+Programming_problem/_219_2.i: Programming_problem/_219_2.c.i
+.PHONY : Programming_problem/_219_2.i
+
+# target to preprocess a source file
+Programming_problem/_219_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.i
+.PHONY : Programming_problem/_219_2.c.i
+
+Programming_problem/_219_2.s: Programming_problem/_219_2.c.s
+.PHONY : Programming_problem/_219_2.s
+
+# target to generate assembly for a file
+Programming_problem/_219_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_2.c.s
+.PHONY : Programming_problem/_219_2.c.s
+
+Programming_problem/_219_3.obj: Programming_problem/_219_3.c.obj
+.PHONY : Programming_problem/_219_3.obj
+
+# target to build an object file
+Programming_problem/_219_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.obj
+.PHONY : Programming_problem/_219_3.c.obj
+
+Programming_problem/_219_3.i: Programming_problem/_219_3.c.i
+.PHONY : Programming_problem/_219_3.i
+
+# target to preprocess a source file
+Programming_problem/_219_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.i
+.PHONY : Programming_problem/_219_3.c.i
+
+Programming_problem/_219_3.s: Programming_problem/_219_3.c.s
+.PHONY : Programming_problem/_219_3.s
+
+# target to generate assembly for a file
+Programming_problem/_219_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_3.c.s
+.PHONY : Programming_problem/_219_3.c.s
+
+Programming_problem/_219_4.obj: Programming_problem/_219_4.c.obj
+.PHONY : Programming_problem/_219_4.obj
+
+# target to build an object file
+Programming_problem/_219_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.obj
+.PHONY : Programming_problem/_219_4.c.obj
+
+Programming_problem/_219_4.i: Programming_problem/_219_4.c.i
+.PHONY : Programming_problem/_219_4.i
+
+# target to preprocess a source file
+Programming_problem/_219_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.i
+.PHONY : Programming_problem/_219_4.c.i
+
+Programming_problem/_219_4.s: Programming_problem/_219_4.c.s
+.PHONY : Programming_problem/_219_4.s
+
+# target to generate assembly for a file
+Programming_problem/_219_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_ACM.dir\build.make CMakeFiles/C_ACM.dir/Programming_problem/_219_4.c.s
+.PHONY : Programming_problem/_219_4.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -272,6 +368,18 @@ help:
 	@echo ... MaTiBei/MC0321.obj
 	@echo ... MaTiBei/MC0321.i
 	@echo ... MaTiBei/MC0321.s
+	@echo ... Programming_problem/_219_1.obj
+	@echo ... Programming_problem/_219_1.i
+	@echo ... Programming_problem/_219_1.s
+	@echo ... Programming_problem/_219_2.obj
+	@echo ... Programming_problem/_219_2.i
+	@echo ... Programming_problem/_219_2.s
+	@echo ... Programming_problem/_219_3.obj
+	@echo ... Programming_problem/_219_3.i
+	@echo ... Programming_problem/_219_3.s
+	@echo ... Programming_problem/_219_4.obj
+	@echo ... Programming_problem/_219_4.i
+	@echo ... Programming_problem/_219_4.s
 .PHONY : help
 
 
