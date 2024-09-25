@@ -67,6 +67,42 @@ void ShowStack(LinkStack* s)
     }
 }
 
+// 数制转换
+void Conversion(int n)
+{
+    printf("十进制数：%d 转换后的二进制数为： ",n);
+    LinkStack s;
+    int x;
+    s.top = NULL;
+    do {
+        x = n%2;
+        n = n/2;
+        Push(&s,x);
+    } while (n);
+    while (Pop(&s,&x))
+    {
+        printf("%d",x);
+    }
+}
+
+// 十进制转16进制
+void Concersion_x(int n)
+{
+    printf("十进制数：%d 转换后的十六进制数为： ",n);
+    LinkStack s;
+    int x;
+    s.top = NULL;
+    do {
+        x = n%16;
+        n /= 16;
+        Push(&s,x);
+    } while (n);
+    while (Pop(&s,&x))
+    {
+        printf("%d",x);
+    }
+}
+
 int main()
 {
     LinkStack stack;
@@ -75,5 +111,6 @@ int main()
         Push(&stack,i);
     }
     ShowStack(&stack);
+    Concersion_x(138);
     return 0;
 }
